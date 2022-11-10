@@ -1,0 +1,9 @@
+{
+    "name": "max/klix-plugin",
+    "type": "october-plugin",
+    "description": "Klix payment gateway for Citadele",
+    "require": {
+        "composer/installers": "~1.0",
+        "klix/klix-sdk-php": "*@dev"
+    }
+}
